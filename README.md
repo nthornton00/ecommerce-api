@@ -4,7 +4,7 @@ A full-featured e-commerce REST API built with Flask, PostgreSQL, Redis, Stripe,
 
 ## Live API
 
-Base URL: https://ecommerce-api-production-0181.up.railway.app
+Base URL: 'https://ecommerce-api-production-0181.up.railway.app'
 
 Test the API is running: `GET /health` or https://ecommerce-api-production-0181.up.railway.app/health
 
