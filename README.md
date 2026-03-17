@@ -2,6 +2,12 @@
 
 A full-featured e-commerce REST API built with Flask, PostgreSQL, Redis, Stripe, and AWS.
 
+## Live API
+
+Base URL: `https://ecommerce-api-production-0181.up.railway.app`
+
+Test the API is running: `GET /health` or https://ecommerce-api-production-0181.up.railway.app/health
+
 ## Tech Stack
 
 - **Flask** - Web framework
