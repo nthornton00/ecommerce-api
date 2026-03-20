@@ -1,6 +1,6 @@
 # E-Commerce REST API
 
-A full-featured e-commerce REST API built with Flask, PostgreSQL, Redis, Stripe, and AWS S3 and SES.
+A full-featured e-commerce REST API built with Python, Flask, PostgreSQL, Redis, JWT, Stripe, and AWS S3 and SES.
 
 ## Live API
 
